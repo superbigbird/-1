@@ -1,8 +1,9 @@
 public class Demo1{
 	
 	public static void main(String[] args){
-		System.out.println("¹þ¹þ");
-		System.out.println("ºÇºÇ");
+		System.out.println("Â¹Ã¾Â¹Ã¾");
+		System.out.println("ÂºÃ‡ÂºÃ‡");
+		System.out.println("third updated");
 	}
 	
 }
